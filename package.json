@@ -1,0 +1,27 @@
+{
+  "name": "hrm.webapp.automation",
+  "version": "1.0.0",
+  "description": "Cypress automation framework using cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindergil/BDD-Cypress-HRMApplication.git"
+  },
+  "keywords": [
+    "HRMCypressBDD"
+  ],
+  "author": "Ravinder Gill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravindergil/BDD-Cypress-HRMApplication/issues"
+  },
+  "homepage": "https://github.com/ravindergil/BDD-Cypress-HRMApplication#readme",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^19.2.0",
+    "@cypress/browserify-preprocessor": "latest",
+    "cypress": "^13.6.0"
+  }
+}
