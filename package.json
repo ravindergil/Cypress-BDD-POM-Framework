@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ravindergil/BDD-Cypress-HRMApplication.git"
+    "url": "git+https://github.com/ravindergil/Cypress-BDD-POM-Framework"
   },
   "keywords": [
     "HRMCypressBDD"
@@ -16,9 +16,9 @@
   "author": "Ravinder Gill",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ravindergil/BDD-Cypress-HRMApplication/issues"
+    "url": "https://github.com/ravindergil/Cypress-BDD-POM-Framework/issues"
   },
-  "homepage": "https://github.com/ravindergil/BDD-Cypress-HRMApplication#readme",
+  "homepage": "https://github.com/ravindergil/Cypress-BDD-POM-Framework#readme",
   "dependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^19.2.0",
     "@cypress/browserify-preprocessor": "latest",
